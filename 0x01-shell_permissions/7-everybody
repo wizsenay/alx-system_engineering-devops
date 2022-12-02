@@ -1,2 +1,2 @@
 #!/bit/bash
-chmod 555 hello
+chmod ugo+x hello
