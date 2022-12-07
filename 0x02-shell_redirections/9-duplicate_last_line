@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 incat >> incat
+tail -1 iacat >> iacat
