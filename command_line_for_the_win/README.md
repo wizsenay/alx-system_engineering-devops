@@ -1,4 +1,4 @@
-#command line for the win
+## command line for the win
 
 steps of applod the *.pnj and *.jng to the github
 
