@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#displays The content of the current directory
+for list in *;
+do
+    echo -e "$list" | sed 's/^[0-9]*-//'
+done
