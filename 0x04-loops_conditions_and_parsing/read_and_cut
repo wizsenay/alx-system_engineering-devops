@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#displays the content of the file /etc/passwd
-#script should only display:
-#	username
-#	user id
-#	Home directory path for the user
-file_name
