@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#displays the content of the file /etc/passwd.
+#it display only:
+#      username
+#      user id
+#      Home directory path for the user
+
+passwd_lists="/etc/passwd"
+while IFS=":" read -r username _ uid _ _ homedir _;
+  do
+      echo "$username:$uid:$homedir"
+  done < "$passwd_lists"
