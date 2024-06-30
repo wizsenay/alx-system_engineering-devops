@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+#  uses ssh to connect to your server using privet key
 
 ssh -i ~/.ssh/school ubuntu@18.234.192.180
