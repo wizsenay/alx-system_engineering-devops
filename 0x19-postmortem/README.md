@@ -1,6 +1,6 @@
-## 0x19-postmortem
-
+### 0x19-postmortem
+## Users unable to access their account
 # Duration:
-    TO resolve the prblem it takes 3 hours from 13:00 to 16:00 GTM,
+ To resolve the problem it takes 3 hours from 13:00 to 16:00 GTM,
 # Impact:
-    useres are get stack to the gust mode model and can't log to there account loos 25% of users of our website affected by this bug
+ users are stacked to the gust mode model and can't log into their account loos 25% of users of our website are affected by this bug
