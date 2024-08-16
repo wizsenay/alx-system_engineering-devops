@@ -1,6 +1,6 @@
 # 0x19-postmortem
 ## Users unable to access their account
-![server error](https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/ETDyAQoFeik74vjsi/videoblocks-10_error_bvukzg49j__8b4ffd28f40ed6d66187d9a086009681__P360.mp4)
+![server error](    )
 ### Duration:
  To resolve the problem it takes 3 hours from 13:00 to 16:00 GTM,
 ### Impact:
@@ -28,3 +28,5 @@ When we attempt to enhance security🔐, we add a more complex login method to t
 When we tried to write some code, we made a few mistakes. As a result, when the server tried to create the encrypted code using the decrypted information sent from the client, it also made some errors because of our code.
 
 So, we worked on it and made the server to encrypt correctly. By doing some code updates, we made it work properly😃.
+
+
