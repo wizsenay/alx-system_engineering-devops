@@ -1,6 +1,6 @@
 # 0x19-postmortem
 ## Users unable to access their account
-![server error](https://www.dreamstime.com/royalty-free-stock-images-error-login-image20278169)
+![login error](https://thumbs.dreamstime.com/z/error-login-20278169.jpg?w=768)
 ### Duration:
  To resolve the problem it takes 3 hours from 13:00 to 16:00 GTM,
 ### Impact:
