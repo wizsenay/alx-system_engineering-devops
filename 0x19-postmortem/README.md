@@ -1,6 +1,6 @@
 # 0x19-postmortem
 ## Users unable to access their account
-![server error](    )
+![server error](https://www.storyblocks.com/video/stock/error-and-user-login-animation-background-loop-4k-347366174?preview=1)
 ### Duration:
  To resolve the problem it takes 3 hours from 13:00 to 16:00 GTM,
 ### Impact:
