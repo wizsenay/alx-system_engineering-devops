@@ -1,6 +1,6 @@
 # 0x19-postmortem
 ## Users unable to access their account
-![server error](https://img.freepik.com/premium-vector/server-error-vector-concept_118813-15944.jpg?w=996)
+![server error](https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/ETDyAQoFeik74vjsi/videoblocks-10_error_bvukzg49j__8b4ffd28f40ed6d66187d9a086009681__P360.mp4)
 ### Duration:
  To resolve the problem it takes 3 hours from 13:00 to 16:00 GTM,
 ### Impact:
